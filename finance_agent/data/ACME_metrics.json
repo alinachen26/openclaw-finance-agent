@@ -1,0 +1,14 @@
+{
+  "ticker": "ACME",
+  "company_name": "Acme Robotics Corp. (ILLUSTRATIVE MOCK DATA)",
+  "periods": ["2024-12-31", "2025-12-31"],
+  "raw": {
+    "revenue":              [{"end":"2024-12-31","val":820000000},{"end":"2025-12-31","val":968000000}],
+    "net_income":           [{"end":"2024-12-31","val":54000000},{"end":"2025-12-31","val":91000000}],
+    "total_assets":         [{"end":"2024-12-31","val":1450000000},{"end":"2025-12-31","val":1620000000}],
+    "total_liabilities":    [{"end":"2024-12-31","val":760000000},{"end":"2025-12-31","val":815000000}],
+    "stockholders_equity":  [{"end":"2024-12-31","val":690000000},{"end":"2025-12-31","val":805000000}],
+    "current_assets":       [{"end":"2024-12-31","val":540000000},{"end":"2025-12-31","val":625000000}],
+    "current_liabilities":  [{"end":"2024-12-31","val":310000000},{"end":"2025-12-31","val":340000000}]
+  }
+}

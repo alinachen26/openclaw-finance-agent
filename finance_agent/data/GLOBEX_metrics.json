@@ -1,0 +1,14 @@
+{
+  "ticker": "GLOBEX",
+  "company_name": "Globex Beverages Inc. (ILLUSTRATIVE MOCK DATA)",
+  "periods": ["2025-03-31", "2026-03-31"],
+  "raw": {
+    "revenue":              [{"end":"2025-03-31","val":1210000000},{"end":"2026-03-31","val":1235000000}],
+    "net_income":           [{"end":"2025-03-31","val":98000000},{"end":"2026-03-31","val":89000000}],
+    "total_assets":         [{"end":"2025-03-31","val":3400000000},{"end":"2026-03-31","val":3460000000}],
+    "total_liabilities":    [{"end":"2025-03-31","val":1900000000},{"end":"2026-03-31","val":1920000000}],
+    "stockholders_equity":  [{"end":"2025-03-31","val":1500000000},{"end":"2026-03-31","val":1540000000}],
+    "current_assets":       [{"end":"2025-03-31","val":980000000},{"end":"2026-03-31","val":1010000000}],
+    "current_liabilities":  [{"end":"2025-03-31","val":720000000},{"end":"2026-03-31","val":700000000}]
+  }
+}

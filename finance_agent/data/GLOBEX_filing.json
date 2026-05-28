@@ -1,0 +1,14 @@
+{
+  "ticker": "GLOBEX",
+  "company_name": "Globex Beverages Inc. (ILLUSTRATIVE MOCK DATA)",
+  "cik": "0000000002",
+  "form_type": "10-Q",
+  "filing_date": "2026-05-05",
+  "report_date": "2026-03-31",
+  "source_url": "MOCK - no live URL in mock mode",
+  "sections": {
+    "business": "Globex Beverages Inc. produces and distributes non-alcoholic beverages across the Americas, with a portfolio spanning sparkling water, juices, and functional drinks. (ILLUSTRATIVE MOCK TEXT.)",
+    "risk_factors": "Input-cost inflation in aluminum and sugar, shifting consumer preferences toward low-sugar products, and seasonality of demand represent key risks. (ILLUSTRATIVE MOCK TEXT.)",
+    "mdna": "Quarterly revenue was roughly flat year over year as price increases offset lower volumes. Margins compressed slightly on higher packaging costs. The company maintains a comfortable current ratio and modest leverage. (ILLUSTRATIVE MOCK TEXT.)"
+  }
+}

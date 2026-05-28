@@ -1,0 +1,14 @@
+{
+  "ticker": "ACME",
+  "company_name": "Acme Robotics Corp. (ILLUSTRATIVE MOCK DATA)",
+  "cik": "0000000001",
+  "form_type": "10-K",
+  "filing_date": "2026-02-18",
+  "report_date": "2025-12-31",
+  "source_url": "MOCK - no live URL in mock mode",
+  "sections": {
+    "business": "Acme Robotics Corp. designs and manufactures autonomous warehouse robots and the fleet-management software that coordinates them. The company sells primarily to logistics and e-commerce operators in North America and Europe, generating revenue from hardware sales and recurring software subscriptions. (ILLUSTRATIVE MOCK TEXT.)",
+    "risk_factors": "Our results depend on a small number of large customers; the loss of any one would materially affect revenue. We face intense competition, supply-chain concentration in certain semiconductor components, and exposure to foreign-currency movements. Rapid technological change could render current products obsolete. (ILLUSTRATIVE MOCK TEXT.)",
+    "mdna": "Revenue grew year over year, driven by expansion of the software subscription base, which carries higher margins than hardware. Operating expenses rose with continued investment in R&D. Management notes that gross margin improved as the software mix increased, while liquidity remains adequate to fund planned operations. (ILLUSTRATIVE MOCK TEXT.)"
+  }
+}
