@@ -6,6 +6,9 @@ system prompt (persona + boundaries). Everything that a reviewer might
 want to change lives here.
 """
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Data mode

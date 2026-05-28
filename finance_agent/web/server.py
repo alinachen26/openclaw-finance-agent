@@ -20,6 +20,10 @@ from agent import core
 app = Flask(__name__, static_folder=None)
 WEB_DIR = Path(__file__).resolve().parent
 
+# Use nest_asyncio to allow nested event loops in Flask
+import nest_asyncio
+nest_asyncio.apply()
+
 
 @app.route("/")
 def index():
