@@ -1,1 +1,1 @@
-# openclaw-finance-agent
+# OpenClaw Finance Agent
